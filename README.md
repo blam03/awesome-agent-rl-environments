@@ -195,6 +195,8 @@ We intentionally **exclude** pure Atari / MuJoCo / classic RL benchmarks, and we
 
 - **[TextWorld](https://github.com/microsoft/TextWorld)** *(Microsoft)* — Sandbox text-game environment with controllable generation; still widely used to probe curriculum learning, generalization, and transfer in LLM agents. 📄 [Paper](https://arxiv.org/abs/1806.11532)
 
+- **[YC-Bench](https://github.com/collinear-ai/yc-bench)** *(arXiv 2026)* — Evaluates long-horizon planning by having an agent run a simulated startup for one year, allocating staff, choosing tasks, and managing cash flow. 📄 [Paper](https://arxiv.org/abs/2604.01212)
+
 - **[ALFWorld](https://github.com/alfworld/alfworld)** — Aligns text-based TextWorld policies with the visual ALFRED benchmark. Standard baseline for embodied / household agents. 📄 [Paper](https://arxiv.org/abs/2010.03768)
 
 - **[Crafter](https://github.com/danijar/crafter)** *(Danijar Hafner)* — Minecraft-inspired 2D open-world survival benchmark. Gym API; popular as a tractable open-ended task in LLM-agent papers.
